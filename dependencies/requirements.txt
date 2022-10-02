@@ -1,0 +1,7 @@
+xgboost
+matplotlib
+seaborn
+pandas
+scikit-learn
+opencv-python
+tensorflow-hub[make_image_classifier]~=0.6
